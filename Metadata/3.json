@@ -1,0 +1,18 @@
+{
+    "name": "Test Token 2",
+    "description": "",
+    "external_url": null,
+    "image": "https://raw.githubusercontent.com/Trooper-SW/Test/main/Images/NewToken.png",
+    "attributes": [
+        {
+            "display_type": null,
+            "trait_type": "Test 2",
+            "value": "2"
+        },
+		{
+            "display_type": null,
+            "trait_type": "New",
+            "value": "C"
+        }
+    ]
+}
