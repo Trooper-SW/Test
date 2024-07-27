@@ -1,0 +1,23 @@
+{
+    "name": "Test Token",
+    "description": "Its A token",
+    "external_url": null,
+    "image": "ipfs://bafybeihufttmgwqxvxepshchplv5vn25waa7pe6lw76sixe4r3grmrdjxi/1",
+    "attributes": [
+        {
+            "display_type": null,
+            "trait_type": "Test 1",
+            "value": "1"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Test 2",
+            "value": "2"
+        },
+		{
+            "display_type": null,
+            "trait_type": "New",
+            "value": "A"
+        }
+    ]
+}
